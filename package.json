@@ -78,7 +78,7 @@
     "karma-coverage": "~2.2.1",
     "lint-staged": "^14.0.0",
     "prettier": "^3.0.1",
-    "react": "^18.2.0",
+    "react": "^18.3.1",
     "react-dom": "^18.2.0",
     "storybook": "^7.2.3",
     "typescript": "~5.1.3"
