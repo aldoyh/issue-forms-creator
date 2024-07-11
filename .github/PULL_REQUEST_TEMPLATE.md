@@ -38,5 +38,7 @@ Issue Number: N/A
 
 <!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below. -->
 
-
 ## Other information
+
+- Always assume the projects are built with the latest Laravel, Livewire and Filament.
+- Running env: Ubuntu LTS, PHP ^8.3, Node 23 and consider @github/fabric whenever appropraite. 
