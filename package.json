@@ -35,7 +35,7 @@
     "@briebug/jest-schematic": "^4.0.0",
     "install": "^0.13.0",
     "js-yaml": "^4.1.0",
-    "marked": "^7.0.2",
+    "marked": "^13.0.2",
     "npm": "^9.8.1",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
