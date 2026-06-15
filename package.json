@@ -31,7 +31,7 @@
     "@angular/material": "^16.2.0",
     "@angular/platform-browser": "^16.2.0",
     "@angular/platform-browser-dynamic": "^16.2.0",
-    "@angular/router": "^16.2.0",
+    "@angular/router": "^22.0.1",
     "@briebug/jest-schematic": "^6.0.0",
     "install": "^0.13.0",
     "js-yaml": "^4.1.0",
